@@ -1,6 +1,26 @@
 # readme
 Over the last few weeks we have created a project that deals with Graph algorithms. Now, I will briefly elaborate and write key content of the project.
 
+
+Welcome to the Ex1 project wiki of Tomer and Michael!
+We are students at Ariel University. Over the last few weeks we have created a project that deals with several types of functions.
+
+# **Example:**
+1) f(x)= plus(-1.0x^4 +2.4x^2 +3.1,+0.1x^5 -1.2999999999999998x +5.0)
+2) f(x)= plus(div(+1.0x +1.0,mul(mul(+1.0x +3.0,+1.0x -2.0),+1.0x -4.0)),2.0)
+3) f(x)= div(plus(-1.0x^4 +2.4x^2 +3.1,+0.1x^5 -1.2999999999999998x +5.0),-1.0x^4 +2.4x^2 +3.1)
+4) f(x)= -1.0x^4 +2.4x^2 +3.1
+5) f(x)= +0.1x^5 -1.2999999999999998x +5.0
+6) f(x)= max(max(max(max(plus(-1.0x^4 +2.4x^2 +3.1,+0.1x^5 -1.2999999999999998x +5.0),plus(div(+1.0x +1.0,mul(mul(+1.0x +3.0,+1.0x -2.0),+1.0x -4.0)),2.0)),div(plus(-1.0x^4 +2.4x^2 +3.1,+0.1x^5 -1.2999999999999998x +5.0),-1.0x^4 +2.4x^2 +3.1)),-1.0x^4 +2.4x^2 +3.1),+0.1x^5 -1.2999999999999998x +5.0)
+7) f(x)= min(min(min(min(plus(-1.0x^4 +2.4x^2 +3.1,+0.1x^5 -1.2999999999999998x +5.0),plus(div(+1.0x +1.0,mul(mul(+1.0x +3.0,+1.0x -2.0),+1.0x -4.0)),2.0)),div(plus(-1.0x^4 +2.4x^2 +3.1,+0.1x^5 -1.2999999999999998x +5.0),-1.0x^4 +2.4x^2 +3.1)),-1.0x^4 +2.4x^2 +3.1),+0.1x^5 -1.2999999999999998x +5.0)
+
+The graph will be :
+
+![](http://www.up2me.co.il/imgs/55306769.jpg)
+
+
+
+
 # Main classes:
 1. DGraph
 2. Edge
